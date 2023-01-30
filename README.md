@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Basem</h1>
 
-![Header](https://github.com/AbdullahBasem/AbdullahBasem/blob/main/github-header-image.png?raw=true)
+![Header](https://github.com/AbdullahBasem/AbdullahBasem/blob/main/github-header.png?raw=true)
 
 
 
