@@ -11,10 +11,10 @@
 - 💬 Ask me about **Laravel , php**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div  style="display: flex; gap: 5px;">
 <a href="https://linkedin.com/in/abdullah-basem-2957bb18a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-basem-2957bb18a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15043040/abdullah-basem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15043040/abdullah-basem" height="30" width="40" /></a>
-</p>
+</div>
 
 
 
