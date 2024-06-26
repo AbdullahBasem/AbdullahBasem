@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Basem</h1>
 
-![Header](https://github.com/AbdullahBasem/AbdullahBasem/blob/main/github-header.png?raw=true)
-
+![Header](./your-header-image-name.png)
 
 <h3 align="center">A passionate web developer from Jordan</h3>
 
