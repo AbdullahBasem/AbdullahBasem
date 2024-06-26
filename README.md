@@ -20,7 +20,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahbasem&show_icons=true&locale=en" alt="abdullahbasem" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahbasem&" alt="abdullahbasem" /></p>
 
-<p></p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 
